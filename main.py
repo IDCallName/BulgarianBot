@@ -8,7 +8,7 @@ import mysql.connector as mysql
 #  BOT STARTUP
 #
 
-BOT_TOKEN = '5970425612:AAGID_LqP9Ih6M9et7fdKOvRphUYM_KLvt8'
+BOT_TOKEN = 'CENSORED'
 
 updater = telegram.ext.Updater(token=BOT_TOKEN, use_context=True)
 dispatcher = updater.dispatcher
